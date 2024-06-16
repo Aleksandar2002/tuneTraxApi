@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342607BE-1EBE-492E-926D-A99BEE71CFF4}|API\\API.csproj|c:\\users\\kovac\\onedrive\\radna povr\u0161ina\\aspprojekat\\tunetrax\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342607BE-1EBE-492E-926D-A99BEE71CFF4}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|c:\\users\\kovac\\onedrive\\radna povr\u0161ina\\aspprojekat\\tunetrax\\implementation\\usecases\\commands\\artists\\efcreateartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|solutionrelative:implementation\\usecases\\commands\\artists\\efcreateartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|c:\\users\\kovac\\onedrive\\radna povr\u0161ina\\aspprojekat\\tunetrax\\implementation\\actorproviders\\jwtactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|solutionrelative:implementation\\actorproviders\\jwtactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|c:\\users\\kovac\\onedrive\\radna povr\u0161ina\\aspprojekat\\tunetrax\\implementation\\logging\\errors\\dberrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B763DDAA-9974-4587-AB06-3B0BFCE2C3A1}|Implementation\\Implementation.csproj|solutionrelative:implementation\\logging\\errors\\dberrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342607BE-1EBE-492E-926D-A99BEE71CFF4}|API\\API.csproj|c:\\users\\kovac\\onedrive\\radna povr\u0161ina\\aspprojekat\\tunetrax\\api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342607BE-1EBE-492E-926D-A99BEE71CFF4}|API\\API.csproj|solutionrelative:api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtActorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\ActorProviders\\JwtActorProvider.cs",
+              "RelativeDocumentMoniker": "Implementation\\ActorProviders\\JwtActorProvider.cs",
+              "ToolTip": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\ActorProviders\\JwtActorProvider.cs",
+              "RelativeToolTip": "Implementation\\ActorProviders\\JwtActorProvider.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:26:22.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCreateArtistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\UseCases\\Commands\\Artists\\EFCreateArtistCommand.cs",
+              "RelativeDocumentMoniker": "Implementation\\UseCases\\Commands\\Artists\\EFCreateArtistCommand.cs",
+              "ToolTip": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\UseCases\\Commands\\Artists\\EFCreateArtistCommand.cs",
+              "RelativeToolTip": "Implementation\\UseCases\\Commands\\Artists\\EFCreateArtistCommand.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAMwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:23:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBErrorLogger.cs",
+              "DocumentMoniker": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\Logging\\Errors\\DBErrorLogger.cs",
+              "RelativeDocumentMoniker": "Implementation\\Logging\\Errors\\DBErrorLogger.cs",
+              "ToolTip": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\Implementation\\Logging\\Errors\\DBErrorLogger.cs",
+              "RelativeToolTip": "Implementation\\Logging\\Errors\\DBErrorLogger.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:56:49.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAA6wIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:57:09.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\kovac\\OneDrive\\Radna povr\u0161ina\\AspProjekat\\TuneTrax\\API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAzwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:55:58.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
