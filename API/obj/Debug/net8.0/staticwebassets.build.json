@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "CW/qqJyPJdIWhDJuEpXePVuONjMOY9EVzBIlZXI1vNo=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "artists/a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg"
+    }
+  ]
+}
