@@ -1,0 +1,56 @@
+1 register
+2 get users
+3 update user privileges
+
+
+4 search track
+5 find track
+6 post track
+7 delete track
+8 put track
+
+9 get genres
+10 post genre
+11 delete genre
+12 put genre
+
+
+13 search artist
+14 post artist
+15 find artist
+16 delete artist
+
+
+17 get playlists
+18 create playlist
+19  - put
+20 delete playlist
+
+21 add tracks to playlist
+22 remove tracks to playlist
+
+23 get comments
+24 post comment
+25 delete comment
+26 edit commen
+
+27 get albums
+28 post album
+29 delete album
+30 edit album
+
+31 - put artist
+32 get use case logs
+33 find album
+34 find comment
+35 find genre
+36 find playlist
+37 find user
+38 delete user
+
+
+
+
+
+
+
