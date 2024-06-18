@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\kovac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\Domain.csproj"
+              "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\Domain.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\Domain.csproj": {
+    "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kovac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

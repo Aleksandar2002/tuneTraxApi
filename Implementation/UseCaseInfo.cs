@@ -4,7 +4,7 @@ namespace Implementation;
 
 public static class UseCaseInfo
 {
-    public static int MaxUseCaseId { get; } = 39;
+    public static int MaxUseCaseId { get; } = 38;
     public static List<int> UseCasesThatNeedFileUpload { get; } = new List<int> { 6, 8, 31, 15 };
 
     public static List<UserUseCase> RegisteredUserAllowedUseCases = new List<UserUseCase>{
@@ -16,11 +16,15 @@ public static class UseCaseInfo
                     },
                     new UserUseCase
                     {
+                        UseCaseId = 9
+                    },
+                    new UserUseCase
+                    {
                         UseCaseId = 13
                     },
                     new UserUseCase
                     {
-                        UseCaseId = 14
+                        UseCaseId = 15
                     },
                     new UserUseCase
                     {
@@ -61,6 +65,22 @@ public static class UseCaseInfo
                     new UserUseCase
                     {
                         UseCaseId = 26
+                    },
+                    new UserUseCase
+                    {
+                        UseCaseId = 27
+                    },
+                    new UserUseCase
+                    {
+                        UseCaseId = 34
+                    },
+                    new UserUseCase
+                    {
+                        UseCaseId = 33
+                    },
+                    new UserUseCase
+                    {
+                        UseCaseId = 36
                     },
                 };
 

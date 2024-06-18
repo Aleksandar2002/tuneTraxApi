@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CW/qqJyPJdIWhDJuEpXePVuONjMOY9EVzBIlZXI1vNo=",
+  "Hash": "p9CneS5iwKrEMn2Hd7lpBAr4Sw/WsR2LhQMzDpvo9Uo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
+      "Identity": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "artists/a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
       "AssetKind": "All",

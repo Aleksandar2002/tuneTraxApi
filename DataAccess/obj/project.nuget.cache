@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pVVJVHo+Pxxq8czezZ+y9iqUW2kLyeYI3XwLbmdCI41VhmThzXWxfwDzCa6/Q/OPlE6JZpBgW8tASJx5IE5qhg==",
+  "dgSpecHash": "jj3h9mLfdAYA0y4ToSK9cwDA7J3fcqsc/z2xO79OhjdxzVfqiC+ewfLsCOhC8YQ80XjKjGYG0Ktudb+6UAFbbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kovac\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kovac\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

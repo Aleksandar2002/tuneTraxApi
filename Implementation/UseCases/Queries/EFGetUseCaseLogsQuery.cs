@@ -15,7 +15,7 @@ public class EFGetUseCaseLogsQuery : EFUseCase, IGetUseCaseLogsQuery
 
     public string Name => "Get use case logs";
 
-    public int Id => 39;
+    public int Id => 32;
 
     public PagedResponse<UseCaseLog> Execute(UseCaseLogSearch search)
     {

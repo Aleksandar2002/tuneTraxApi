@@ -16,7 +16,7 @@ public class EFFindArtistQuery : GenericFind<Artist, DetailedArtistDto>, IFindAr
 
     public override string Name => "Find artist";
 
-    public override int Id => 31;
+    public override int Id => 15;
 
 
 }

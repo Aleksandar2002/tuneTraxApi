@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mqkwpb3IGbKGXZyF4ILTPJ6K5XV7DLRNS7qtpITrJxg0mdkY1W7jYkrajh/K+HniDjctFYPEUo/yLtox3eBqkA==",
+  "dgSpecHash": "DysdaU10Z5ODqc8wuwNIfBUc2VPnf4C1A81A6rxdcp4LslZQjTEMUWtPbIR1POPHCyOj2ceQsJaIR0rr5PGwSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kovac\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kovac\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
