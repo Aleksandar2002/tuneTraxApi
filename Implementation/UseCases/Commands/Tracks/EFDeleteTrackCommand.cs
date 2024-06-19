@@ -29,8 +29,12 @@ namespace Implementation.UseCases.Commands.Tracks
             }
 
 
-            RemoveFile(track.AudioFile, "trackAudioFiles");
-            if (track.CoverImage != null)
+            if (track.AudioFile != "default.mp3")
+            {
+                RemoveFile(track.AudioFile, "trackAudioFiles");
+            }
+
+            if (track.CoverImage != null && track.CoverImage != "default.jpg")
             {
                 RemoveFile(track.CoverImage, "trackCoverImages");
             }

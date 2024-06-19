@@ -1,8 +1,20 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg",
-      "PackagePath": "staticwebassets\\artists\\a8462752-86ef-4481-94d7-8cdc99b191aa.jpg"
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\artists\\t.txt.txt",
+      "PackagePath": "staticwebassets\\artists\\t.txt.txt"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\temp\\t.txt.txt",
+      "PackagePath": "staticwebassets\\temp\\t.txt.txt"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\trackAudioFiles\\t.txt.txt",
+      "PackagePath": "staticwebassets\\trackAudioFiles\\t.txt.txt"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\TuneTrax git\\API\\wwwroot\\trackCoverImages\\t1.txt.txt",
+      "PackagePath": "staticwebassets\\trackCoverImages\\t1.txt.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
